@@ -8,8 +8,7 @@ export default defineConfig({
     host: '0.0.0.0',
     port: 5173,
     allowedHosts: [
-      'ec2-13-60-30-16.eu-north-1.compute.amazonaws.com',
-      'manandev.duckdns.org'
+      'manandev.duckdns.org',
     ]
   }
 });
